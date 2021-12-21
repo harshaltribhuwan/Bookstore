@@ -21,6 +21,7 @@
         "eslint": "^1.10.3",
         "express": "^4.12.2",
         "express-messages": "^1.0.1",
+        "grunt-copy-browser-modules": "^7.0.1",
         "kraken-js": "^2.0.0",
         "makara": "^2.1.0",
         "mongoose": "^6.1.1",
